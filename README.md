@@ -1,2 +1,2 @@
-# Recipe-Prediction
-"What's Cooking?" from Kaggle
+# Recipe-Classification
+"What's Cooking?" from Kaggle.
